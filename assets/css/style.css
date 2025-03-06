@@ -1,0 +1,352 @@
+html,
+body {
+  position: relative;
+  width: 100% !important;
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  > section {
+    width: 60%;
+    height: 100%;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    > div {
+      width: 100%;
+      height: 600px;
+      overflow: unset !important;
+      position: relative !important;
+
+      > div {
+        &:nth-of-type(1) {
+          width: 100%;
+          border-radius: 8px;
+
+          > div {
+            width: 100% !important;
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            border-radius: 8px;
+
+            /* Center slide text vertically */
+            display: flex !important;
+            justify-content: center !important;
+            align-items: center !important;
+            box-sizing: border-box;
+
+            &:nth-of-type(1),
+            &:nth-of-type(4),
+            &:nth-of-type(5) {
+              width: 100%;
+              background: hsla(315, 98%, 19%, 1);
+              background-image: radial-gradient(
+                  at 1% 98%,
+                  hsla(254, 47%, 27%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 100% 63%,
+                  hsla(337, 99%, 42%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 1% 2%,
+                  hsla(288, 97%, 18%, 1) 0px,
+                  transparent 50%
+                );
+
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              > div {
+                width: 50%;
+                color: #fff;
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+
+                > * {
+                  margin-left: 40px;
+                }
+
+                > h2 {
+                  width: 90%;
+                  text-align: left;
+                  font-size: 40px;
+                }
+
+                > p {
+                  width: 80%;
+                  text-align: left;
+                  margin: unset;
+                  margin-left: 40px;
+                }
+
+                > a {
+                  width: 100px;
+                  height: 16px;
+                  padding: 15px 36px;
+                  background-color: #fff;
+                  border-radius: 1000px;
+                  text-decoration: none;
+                  color: #000;
+                  font-size: 16px;
+                  margin-top: 30px;
+                  font-weight: 700;
+                }
+              }
+              > figure {
+                width: 50%;
+
+                > img {
+                  width: 100%;
+                  height: 100%;
+                  object-fit: cover;
+                }
+              }
+            }
+            &:nth-of-type(2),
+            &:nth-of-type(3) {
+              width: 100%;
+              display: flex;
+              flex-direction: column;
+              padding: 0 40px;
+              background-image: url("/assets/img/hero-home-avod-02_21.webp");
+              background-size: cover;
+              > div {
+                width: 100%;
+                height: 50%;
+                &:first-of-type {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: flex-start;
+                  > h2 {
+                    margin: unset !important;
+                    margin-top: 60px !important;
+                    font-size: 42px;
+                    color: #fff;
+                  }
+
+                  > p {
+                    width: 475px;
+                    text-align: left;
+                    margin: 25px 0 30px;
+                    line-height: 25px;
+                    font-size: 16px;
+                    color: #fff;
+                  }
+
+                  > a {
+                    width: 112px;
+                    padding: 15px 36px;
+                    text-decoration: none;
+                    background-color: #fff;
+                    border-radius: 1000px;
+                    color: #000;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    font-size: 16px;
+                    font-weight: 700;
+                  }
+                }
+
+                &:last-of-type {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+
+                  > figure {
+                    margin: unset !important;
+                    width: 15% !important;
+                    border-radius: 12px;
+
+                    > img {
+                      width: 100%;
+                      height: 100%;
+                      object-fit: cover;
+                      border-radius: 12px;
+                    }
+                  }
+                }
+              }
+            }
+            &:nth-of-type(3) {
+              background-image: url("/assets/img/hero-home.png");
+              > div {
+                &:first-of-type {
+                  > a {
+                    width: 150px;
+                  }
+                }
+                &:last-of-type {
+                  display: flex;
+                  justify-content: flex-start;
+                  gap: 10px;
+                  flex-wrap: wrap;
+                  > figure {
+                    width: 203px !important;
+                    height: 114px;
+                  }
+                }
+              }
+            }
+            &:nth-of-type(4),
+            &:nth-of-type(5) {
+              background: hsla(246, 33%, 26%, 1);
+              background-image: radial-gradient(
+                  at 23% 1%,
+                  hsla(201, 97%, 53%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 100% 1%,
+                  hsla(48, 100%, 48%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 14% 99%,
+                  hsla(324, 45%, 24%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 80% 99%,
+                  hsla(201, 97%, 53%, 1) 0px,
+                  transparent 50%
+                );
+
+              display: flex;
+              justify-content: space-between !important;
+              align-items: center;
+
+              > div {
+                width: 445px;
+                height: 331px;
+
+                p {
+                  width: 90%;
+                  line-height: 25px;
+                }
+
+                > a {
+                  width: 170px;
+                }
+              }
+
+              > figure {
+                width: 620px;
+                height: 515px;
+                margin: unset !important;
+
+                > img {
+                  width: 100%;
+                  height: 100%;
+                  object-fit: cover;
+                }
+              }
+            }
+            &:nth-of-type(5) {
+              background: hsla(246, 33%, 26%, 1);
+              background-image: radial-gradient(
+                  at 86% 3%,
+                  hsla(348, 91%, 61%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 0% 99%,
+                  hsla(246, 33%, 26%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 0% 1%,
+                  hsla(201, 97%, 53%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 91% 98%,
+                  hsla(48, 100%, 48%, 1) 0px,
+                  transparent 50%
+                ),
+                radial-gradient(
+                  at 88% 55%,
+                  hsla(12, 60%, 47%, 1) 0px,
+                  transparent 50%
+                );
+              > figure {
+                height: 100%;
+                padding-right: 40px;
+              }
+            }
+          }
+        }
+        &:nth-of-type(2) {
+          width: 100%;
+          height: 60px;
+          position: absolute;
+          top: -16% !important;
+          display: flex;
+          justify-content: flex-start;
+          align-items: center;
+
+          > span {
+            padding: 5px 20px !important;
+            width: auto !important;
+            height: 30px !important;
+            border-radius: 8px !important;
+            font-size: 12px !important;
+            color: #007aff;
+            opacity: 1 !important;
+            background: transparent !important;
+            display: flex !important;
+            align-items: center;
+            font-weight: 600;
+            border: 1px solid #007aff;
+          }
+
+          > .swiper-pagination-bullet-active {
+            color: #fff !important;
+            background: #007aff !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+.btn-prev,
+.btn-next {
+  position: absolute !important;
+  top: -11% !important;
+}
+
+.btn-prev::after,
+.btn-next::after {
+  font-size: 24px !important;
+  color: #007aff !important;
+  font-weight: 900;
+}
+
+.btn-next {
+  right: 1% !important;
+}
+
+.btn-prev {
+  left: 92% !important;
+}

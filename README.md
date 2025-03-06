@@ -6,4 +6,4 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 [![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)]()
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)]([https://your-demo-link.com](https://github.com/S-Movakel/Slider))
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge)]([[https://your-demo-link.com](](https://s-movakel.github.io/Slider/))

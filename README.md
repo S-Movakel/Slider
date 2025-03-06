@@ -13,5 +13,5 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 ## 🚀 My Project
 
 <p align="center">
-  <img src="https://github.com/s-movakel/Slider/raw/main/preview.png" alt="My Project" width="800" />
+  <img src="https://github.com/s-movakel/Slider/raw/main/preview.png" alt="My Project" width="1200" />
 </p>

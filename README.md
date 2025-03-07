@@ -11,7 +11,6 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 
 ## 👀 View Demo
 🖥️ Please click on the link below to view the demo.
-![Repo Size](https://img.shields.io/github/repo-size/s-movakel/Slider?style=for-the-badge)
 
 
 [![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://s-movakel.github.io/Slider/)

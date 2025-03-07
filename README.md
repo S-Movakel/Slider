@@ -1,7 +1,7 @@
 ## Slider
 **Slider** project using **HTML** , **CSS** , **JavaScript** and using the **SwiperJS** library
 
-🖥️ **Developed BY**: ****Mohammad Sajjad Movakel****
+🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
 🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - ⚙️ **JAVASCRIPT**
 

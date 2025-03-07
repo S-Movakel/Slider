@@ -30,5 +30,4 @@ GMAIL: S.Movakel@gmail.com
 
 
 [![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Movakelize.Dev)
-
-[![**Gmail**](https://your-image-link.com/gmail-icon.png)](mailto:S.Movakel@gmail.com)
+[![**Gmail**](https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:S.Movakel@gmail.com)

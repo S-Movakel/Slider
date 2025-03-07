@@ -26,4 +26,4 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 Please click on the **LINKS** below to contact me.
 
 [![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Movakelize.Dev)
-[![**Gmail**](https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](mailto:S.Movakel@gmail.com)
+[![**Gmail**](https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:S.Movakel@gmail.com)

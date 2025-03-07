@@ -25,5 +25,5 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 INSTAGRAM: Movakelize.Dev
 Gmail: S.Movakel@gmail.com
 
-![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/s-movakel/Slider?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/s-movakel/Slider?style=for-the-badge)

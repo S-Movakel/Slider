@@ -20,3 +20,10 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 <p align="center">
   <img src="https://github.com/s-movakel/Slider/raw/main/preview.png" alt="My Project" width="1200" />
 </p>
+
+## 📧 CONTACT ME:
+INSTAGRAM: Movakelize.Dev
+Gmail: S.Movakel@gmail.com
+
+![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo?style=for-the-badge)

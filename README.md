@@ -23,18 +23,12 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 </p>
 
 ## 📧 CONTACT ME:
-<a href="https://instagram.com/Movakelize.Dev" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30" height="30">
-</a>
 
 GMAIL: S.Movakel@gmail.com
 
 
-[![Instagram](https://your-image-link.com/instagram-icon.png)](https://instagram.com/your-username)
 
-[📷 **Follow me on Instagram**](https://instagram.com/your-username)
 
-[📸 **MY INSTAGRAM**](https://instagram.com/your-username)
+[![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Movakelize.Dev)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
-
+[![**Gmail**](https://your-image-link.com/gmail-icon.png)](mailto:S.Movakel@gmail.com)

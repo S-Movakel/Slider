@@ -23,9 +23,9 @@ Slider project using HTML , CSS , JavaScript and using the SwiperJS library
 </p>
 
 ## 📧 CONTACT ME:
-<a href="https://instagram.com/your-username" target="_blank">
+<a href="https://instagram.com/Movakelize.Dev" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="30" height="30">
-</a> INSTAGRAM: Movakelize.Dev
+</a>
 
 GMAIL: S.Movakel@gmail.com
 
